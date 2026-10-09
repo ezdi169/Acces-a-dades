@@ -1,0 +1,32 @@
+<zoo>
+    <animal id="1">
+        <nombre>Tapir</nombre>
+        <especie>Tapiridae</especie>
+        <alimento>Vegetales</alimento>
+        <edad>15</edad>
+    </animal>
+    <animal id="2">
+        <nombre>Capibara</nombre>
+        <especie>Cavidos</especie>
+        <alimento>Vegetales</alimento>
+        <edad>6</edad>
+    </animal>
+    <animal id="3">
+        <nombre>Kiwi</nombre>
+        <especie>Apterygidae</especie>
+        <alimento>Insectos</alimento>
+        <edad>10</edad>
+    </animal>
+    <animal id="4">
+        <nombre>Puma</nombre>
+        <especie>Felidae</especie>
+        <alimento>Carne</alimento>
+        <edad>4</edad>
+    </animal>
+    <animal id="5">
+        <nombre>Dragon de Komodo</nombre>
+        <especie>sauropsido</especie>
+        <alimento>Carne</alimento>
+        <edad>25</edad>
+    </animal>
+</zoo>
